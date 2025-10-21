@@ -95,28 +95,6 @@
     
     
     <entry>
-      <title>归档</title>
-      <link href="/archives/index.html"/>
-      <url>/archives/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>关于</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
@@ -139,9 +117,31 @@
     
     
     <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>归档</title>
+      <link href="/archives/index.html"/>
+      <url>/archives/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -184,17 +184,6 @@
     
     <entry>
       <title></title>
-      <link href="/swiper/swiperstyle.css"/>
-      <url>/swiper/swiperstyle.css</url>
-      
-        <content type="html"><![CDATA[/* ===== 置顶轮播图 ===== */.blog-slider{position:relative;margin:20px 0;border-radius:12px;overflow:hidden;box-shadow:0 4px 12px rgba(0,0,0,.15)}.blog-slider__item{height:400px;display:flex;align-items:center;justify-content:center;position:relative;overflow:hidden}.blog-slider__img{width:100%;height:100%;object-fit:cover;position:absolute;top:0;left:0;z-index:1}.blog-slider__content{position:relative;z-index:2;padding:20px 30px;color:#fff;background:rgba(0,0,0,.5);border-radius:8px;max-width:500px;text-align:center}.blog-slider__title{font-size:1.8rem;margin:0 0 10px;font-weight:600}.blog-slider__description{font-size:1rem;margin:0 0 15px;line-height:1.5}.blog-slider__button{display:inline-block;padding:8px 20px;background:#fff;color:#000;border-radius:20px;text-decoration:none;font-weight:600;transition:.3s}.blog-slider__button:hover{background:#f1f1f1}/* 分页指示器 */.blog-slider__pagination{position:absolute;bottom:20px;left:50%;transform:translateX(-50%);z-index:3;display:flex;gap:6px}.blog-slider__pagination .swiper-pagination-bullet{width:10px;height:10px;border-radius:50%;background:#fff;opacity:.5;transition:opacity .3s}.blog-slider__pagination .swiper-pagination-bullet-active{opacity:1}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
       <link href="/swiper/swiper_init.js"/>
       <url>/swiper/swiper_init.js</url>
       
@@ -205,9 +194,20 @@
     
     
     <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title></title>
+      <link href="/swiper/swiperstyle.css"/>
+      <url>/swiper/swiperstyle.css</url>
+      
+        <content type="html"><![CDATA[/* ===== 置顶轮播图 ===== */.blog-slider{position:relative;margin:20px 0;border-radius:12px;overflow:hidden;box-shadow:0 4px 12px rgba(0,0,0,.15)}.blog-slider__item{height:400px;display:flex;align-items:center;justify-content:center;position:relative;overflow:hidden}.blog-slider__img{width:100%;height:100%;object-fit:cover;position:absolute;top:0;left:0;z-index:1}.blog-slider__content{position:relative;z-index:2;padding:20px 30px;color:#fff;background:rgba(0,0,0,.5);border-radius:8px;max-width:500px;text-align:center}.blog-slider__title{font-size:1.8rem;margin:0 0 10px;font-weight:600}.blog-slider__description{font-size:1rem;margin:0 0 15px;line-height:1.5}.blog-slider__button{display:inline-block;padding:8px 20px;background:#fff;color:#000;border-radius:20px;text-decoration:none;font-weight:600;transition:.3s}.blog-slider__button:hover{background:#f1f1f1}/* 分页指示器 */.blog-slider__pagination{position:absolute;bottom:20px;left:50%;transform:translateX(-50%);z-index:3;display:flex;gap:6px}.blog-slider__pagination .swiper-pagination-bullet{width:10px;height:10px;border-radius:50%;background:#fff;opacity:.5;transition:opacity .3s}.blog-slider__pagination .swiper-pagination-bullet-active{opacity:1}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
