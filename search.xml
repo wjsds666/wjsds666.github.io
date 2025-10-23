@@ -115,6 +115,17 @@
     
     
     <entry>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="👋-Hi，我是"><a href="#👋-Hi，我是" class="headerlink" title="👋 Hi，我是 "></a>👋 Hi，我是 </h2><p>今年刚刚迈入大学的门槛，是一个普普通通的男大，就读软件工程专业，今年十九岁了</p><ul><li>现役 📍 <strong>浙江 / 工大 /</strong></li><li>主攻 🧑‍💻 <strong>前端 /</strong></li><li>副业 📷 <strong>摄影 / 钢琴 / 独立游戏</strong></li><li>性格 🐈 <strong>夜猫子 + 爱睡觉</strong></li><li>游戏 🎮 <strong>绝区零 &amp; 崩铁双修</strong> | <strong>单机全栈选手</strong> | <strong>P5R 天下第一</strong> | <strong>正在失忆症地堡逃命</strong></li><li>番剧 🌸 <strong>轻音少女养老循环</strong> | <strong>EVA 人类补完计划</strong> | <strong>每年一遍，抑郁充电</strong></li></ul><hr><h2 id="📬-联系我"><a href="#📬-联系我" class="headerlink" title="📬 联系我"></a>📬 联系我</h2><div class="table-container"><table><thead><tr><th>渠道</th><th>入口</th></tr></thead><tbody><tr><td>🌍 博客</td><td>你现在就在看 👀</td></tr><tr><td>🐙 GitHub</td><td><a href="https://github.com/wjsds666">https://github.com/wjsds666</a></td></tr><tr><td>💬 qq</td><td>2784672381</td></tr></tbody></table></div><hr>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>categories</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
@@ -131,28 +142,6 @@
       <url>/archives/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="🎬-EVA全收集"><a href="#🎬-EVA全收集" class="headerlink" title="🎬 EVA全收集"></a>🎬 EVA全收集</h2><h3 id="🔴-EVA-新剧场版四部曲"><a href="#🔴-EVA-新剧场版四部曲" class="headerlink" title="🔴 EVA 新剧场版四部曲"></a>🔴 EVA 新剧场版四部曲</h3><div class="site-card-group"><a class="site-card" href="https://www.bilibili.com/bangumi/play/ss1638"><div class="img"><img src="https://i0.hdslb.com/bfs/bangumi/41a56f681e3d020e531b67e523ddd972dfa61885.jpg@660w_884h.webp"/></div><div class="info"><span class="title">福音战士新剧场版：序</span><span class="desc">EVA 新剧场版重启第一弹，屋岛作战 3D 化名场面</span></div></a><a class="site-card" href="https://www.bilibili.com/bangumi/play/ss1639"><div class="img"><img src="/img/po.png"/></div><div class="info"><span class="title">福音战士新剧场版：破</span><span class="desc">明日香登场！徒手抓女神，翼をください直接封神</span></div></a><a class="site-card" href="https://www.bilibili.com/bangumi/play/ss1640"><div class="img"><img src="/img/q.png"/></div><div class="info"><span class="title">福音战士新剧场版：Q</span><span class="desc">时间线大跳跃，十四年后的世界一起懵逼</span></div></a><a class="site-card" href="https://www.bilibili.com/bangumi/play/ss44515"><div class="img"><img src="/img/ezhong.png"/></div><div class="info"><span class="title">新·福音战士剧场版：终</span><span class="desc">系列完结，庵野秀明写给所有人的情书</span></div></a></div><p>终可以去电影院看</p>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="👋-Hi，我是"><a href="#👋-Hi，我是" class="headerlink" title="👋 Hi，我是 "></a>👋 Hi，我是 </h2><p>今年刚刚迈入大学的门槛，是一个普普通通的男大，就读软件工程专业，今年十九岁了</p><ul><li>现役 📍 <strong>浙江 / 工大 /</strong></li><li>主攻 🧑‍💻 <strong>前端 /</strong></li><li>副业 📷 <strong>摄影 / 钢琴 / 独立游戏</strong></li><li>性格 🐈 <strong>夜猫子 + 爱睡觉</strong></li><li>游戏 🎮 <strong>绝区零 &amp; 崩铁双修</strong> | <strong>单机全栈选手</strong> | <strong>P5R 天下第一</strong> | <strong>正在失忆症地堡逃命</strong></li><li>番剧 🌸 <strong>轻音少女养老循环</strong> | <strong>EVA 人类补完计划</strong> | <strong>每年一遍，抑郁充电</strong></li></ul><hr><h2 id="📬-联系我"><a href="#📬-联系我" class="headerlink" title="📬 联系我"></a>📬 联系我</h2><div class="table-container"><table><thead><tr><th>渠道</th><th>入口</th></tr></thead><tbody><tr><td>🌍 博客</td><td>你现在就在看 👀</td></tr><tr><td>🐙 GitHub</td><td><a href="https://github.com/wjsds666">https://github.com/wjsds666</a></td></tr><tr><td>💬 qq</td><td>2784672381</td></tr></tbody></table></div><hr>]]></content>
       
     </entry>
     
@@ -185,7 +174,18 @@
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
       
-        <content type="html"><![CDATA[<h2 id="永远的ONE-LAST-KISS"><a href="#永远的ONE-LAST-KISS" class="headerlink" title="永远的ONE LAST KISS"></a>永远的ONE LAST KISS</h2><div class="site-card-group"><a class="site-card" href="https://www.bilibili.com/video/BV1ZL411h73x?t=2.5"><div class="img"><img src="https://i0.hdslb.com/bfs/archive/a37117a19c8bc2315cc3a2cd20226c900e809dc8.jpg@672w_378h_1c_!web-search-common-cover.avif"/></div><div class="info"><span class="title">ONE LAST KISS</span></div></a></div><h2 id="陶喆专辑"><a href="#陶喆专辑" class="headerlink" title="陶喆专辑"></a>陶喆专辑</h2><div class="site-card-group"><a class="site-card" href="https://www.bilibili.com/video/BV1NNGzziEmJ/?spm_id_from=333.337.search-card.all.click"><div class="img"><img src="https://i0.hdslb.com/bfs/archive/70a7feca32a1424d69d435027ef9a476bb2a9b16.jpg@672w_378h_1c_!web-search-common-cover.avif"/></div><div class="info"><span class="title">黑色柳丁</span></div></a><a class="site-card" href="https://www.bilibili.com/video/BV1BAxszmELB/?spm_id_from=333.337.search-card.all.click"><div class="img"><img src="https://i0.hdslb.com/bfs/archive/d393deb4797b42c9bb076ffb2c74746f7120d1b6.jpg@672w_378h_1c_!web-search-common-cover.avif"/></div><div class="info"><span class="title">DAVIT TAO</span></div></a><a class="site-card" href="https://www.bilibili.com/video/BV13P411j78w/?spm_id_from=333.337.search-card.all.click"><div class="img"><img src="https://i0.hdslb.com/bfs/archive/3826d9fbbb6f3b813b7604cdc2120200019a91b5.jpg@672w_378h_1c_!web-search-common-cover.avif"/></div><div class="info"><span class="title">IM OK</span></div></a><a class="site-card" href="https://www.bilibili.com/video/BV1Hw42zQEXP/?spm_id_from=333.337.search-card.all.click"><div class="img"><img src="https://i0.hdslb.com/bfs/archive/26416c4f1e4fbc9be3d8f817fb00bf29ccdcc1e3.jpg@672w_378h_1c_!web-search-common-cover.avif"/></div><div class="info"><span class="title">太平盛世</span></div></a></div><h3 id="陶喆经典演唱会"><a href="#陶喆经典演唱会" class="headerlink" title="陶喆经典演唱会"></a>陶喆经典演唱会</h3><div class="site-card-group"><a class="site-card" href="https://www.bilibili.com/video/BV15C41187cx/?spm_id_from=333.337.search-card.all.click"><div class="img"><img src="https://i0.hdslb.com/bfs/archive/c08514c67a9c52e9e96226695afb92f09db85f6e.jpg@672w_378h_1c_!web-search-common-cover.avif"/></div><div class="info"><span class="title">标题</span></div></a><a class="site-card" href="https://www.bilibili.com/video/BV1yUiiYkEaX/?spm_id_from=333.337.search-card.all.click"><div class="img"><img src="https://i0.hdslb.com/bfs/archive/f3fc8036851905027cbba700cc1abcb4ed7f78c2.jpg@672w_378h_1c_!web-search-common-cover.avif"/></div><div class="info"><span class="title">标题</span></div></a><a class="site-card" href="https://www.bilibili.com/video/BV1rWqAYyEfa/?spm_id_from=333.337.search-card.all.click"><div class="img"><img src="https://i0.hdslb.com/bfs/archive/78cd394fd3cbdddd916b1d9977981b79f68e6395.jpg@672w_378h_1c_!web-search-common-cover.avif"/></div><div class="info"><span class="title">标题</span></div></a></div>]]></content>
+        <content type="html"><![CDATA[<h2 id="永远的ONE-LAST-KISS"><a href="#永远的ONE-LAST-KISS" class="headerlink" title="永远的ONE LAST KISS"></a>永远的ONE LAST KISS</h2><div class="site-card-group"><a class="site-card" href="https://www.bilibili.com/video/BV1ZL411h73x?t=2.5"><div class="img"><img src="/img/kissb.jpg"/></div><div class="info"><span class="title">ONE LAST KISS</span></div></a></div><h2 id="陶喆专辑"><a href="#陶喆专辑" class="headerlink" title="陶喆专辑"></a>陶喆专辑</h2><div class="site-card-group"><a class="site-card" href="https://www.bilibili.com/video/BV1NNGzziEmJ/?spm_id_from=333.337.search-card.all.click"><div class="img"><img src="/img/hei.jpg"/></div><div class="info"><span class="title">黑色柳丁</span></div></a><a class="site-card" href="https://www.bilibili.com/video/BV1BAxszmELB/?spm_id_from=333.337.search-card.all.click"><div class="img"><img src="/img/lan.jpg"/></div><div class="info"><span class="title">DAVIT TAO</span></div></a><a class="site-card" href="https://www.bilibili.com/video/BV13P411j78w/?spm_id_from=333.337.search-card.all.click"><div class="img"><img src="/img/huang.jpg"/></div><div class="info"><span class="title">IM OK</span></div></a><a class="site-card" href="https://www.bilibili.com/video/BV1Hw42zQEXP/?spm_id_from=333.337.search-card.all.click"><div class="img"><img src="/img/hong.jpg"/></div><div class="info"><span class="title">太平盛世</span></div></a></div><h3 id="陶喆经典演唱会"><a href="#陶喆经典演唱会" class="headerlink" title="陶喆经典演唱会"></a>陶喆经典演唱会</h3><div class="site-card-group"><a class="site-card" href="https://www.bilibili.com/video/BV15C41187cx/?spm_id_from=333.337.search-card.all.click"><div class="img"><img src="/img/sp.jpg"/></div><div class="info"><span class="title">标题</span></div></a><a class="site-card" href="https://www.bilibili.com/video/BV1yUiiYkEaX/?spm_id_from=333.337.search-card.all.click"><div class="img"><img src="/img/lc.jpg"/></div><div class="info"><span class="title">标题</span></div></a><a class="site-card" href="https://www.bilibili.com/video/BV1rWqAYyEfa/?spm_id_from=333.337.search-card.all.click"><div class="img"><img src="/img/mu.jpg"/></div><div class="info"><span class="title">标题</span></div></a></div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="🎬-EVA全收集"><a href="#🎬-EVA全收集" class="headerlink" title="🎬 EVA全收集"></a>🎬 EVA全收集</h2><h3 id="🔴-EVA-新剧场版四部曲"><a href="#🔴-EVA-新剧场版四部曲" class="headerlink" title="🔴 EVA 新剧场版四部曲"></a>🔴 EVA 新剧场版四部曲</h3><div class="site-card-group"><a class="site-card" href="https://www.bilibili.com/bangumi/play/ss1638"><div class="img"><img src="/img/xv.jpg"/></div><div class="info"><span class="title">福音战士新剧场版：序</span><span class="desc">EVA 新剧场版重启第一弹，屋岛作战 3D 化名场面</span></div></a><a class="site-card" href="https://www.bilibili.com/bangumi/play/ss1639"><div class="img"><img src="/img/po.png"/></div><div class="info"><span class="title">福音战士新剧场版：破</span><span class="desc">明日香登场！徒手抓女神，翼をください直接封神</span></div></a><a class="site-card" href="https://www.bilibili.com/bangumi/play/ss1640"><div class="img"><img src="/img/q.png"/></div><div class="info"><span class="title">福音战士新剧场版：Q</span><span class="desc">时间线大跳跃，十四年后的世界一起懵逼</span></div></a><a class="site-card" href="https://www.bilibili.com/bangumi/play/ss44515"><div class="img"><img src="/img/ezhong.png"/></div><div class="info"><span class="title">新·福音战士剧场版：终</span><span class="desc">系列完结，庵野秀明写给所有人的情书</span></div></a></div><p>终可以去电影院看</p>]]></content>
       
     </entry>
     
