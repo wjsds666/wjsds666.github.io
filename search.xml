@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>通过 obsidian 笔记直接在博客上新建文章-懒人的小工具</title>
+    <link href="/2026/04/23/%E9%80%9A%E8%BF%87%20obsidian%20%E7%AC%94%E8%AE%B0%E7%9B%B4%E6%8E%A5%E5%9C%A8%E5%8D%9A%E5%AE%A2%E4%B8%8A%E6%96%B0%E5%BB%BA%E6%96%87%E7%AB%A0-%E6%87%92%E4%BA%BA%E7%9A%84%E5%B0%8F%E5%B7%A5%E5%85%B7/"/>
+    <url>/2026/04/23/%E9%80%9A%E8%BF%87%20obsidian%20%E7%AC%94%E8%AE%B0%E7%9B%B4%E6%8E%A5%E5%9C%A8%E5%8D%9A%E5%AE%A2%E4%B8%8A%E6%96%B0%E5%BB%BA%E6%96%87%E7%AB%A0-%E6%87%92%E4%BA%BA%E7%9A%84%E5%B0%8F%E5%B7%A5%E5%85%B7/</url>
+    <content type="html"><![CDATA[![](assets/通过%20obsidian%20笔记直接在博客上新建文章 懒人的小工具/file 20260423221536954.png) 开端 突发的灵感 由于昨天自己手写了一个关于 ppt 制作的文章,感觉重拾博客还挺有意思的,但就是写的时候太反人类了,竟然不能直接写 md 文件 于是,我就想到了我经常使]]></content>
+    <categories>
+      <category> 开发 </category>
+    </categories>
+    <tags>
+      <tag> Obsidian </tag>
+      <tag> AI </tag>
+      <tag> Tool </tag>
+    </tags>
+  </entry>
+  <entry>
     <title>openwebui 接入开源项目 pptmaster 折腾有感</title>
     <link href="/2026/04/22/openwebui%20%E6%8E%A5%E5%85%A5%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%20pptmaster%20%E6%8A%98%E8%85%BE%E6%9C%89%E6%84%9F/"/>
     <url>/2026/04/22/openwebui%20%E6%8E%A5%E5%85%A5%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%20pptmaster%20%E6%8A%98%E8%85%BE%E6%9C%89%E6%84%9F/</url>
-    <content type="html"><![CDATA[开端 因为折腾大学生服务外包,自己和队友一步一步开始手把手搞 ai 制作ppt 这个功能,发掘到市面上大多数 ai ppt 生成不可控,效果不太理想 机缘巧合下在 b 站看到了牛人写的 ppt master [https://github.com/hugohe3/ppt master][pptmaster]项目,生成效]]></content>
+    <content type="html"><![CDATA[开端 因为折腾大学生服务外包,自己和队友一步一步开始手把手搞 ai 制作ppt 这个功能,发掘到市面上大多数 ai ppt 生成不可控,效果不太理想 机缘巧合下]]></content>
     <categories>
       <category> 开发 </category>
     </categories>
