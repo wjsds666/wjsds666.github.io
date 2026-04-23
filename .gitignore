@@ -1,0 +1,10 @@
+.DS_Store
+
+# Local build / sync experiments
+.hexo-build/
+obsidian-vault/
+source/
+tools/
+
+# Local notes or docs
+BLOG_OBSIDIAN_SYNC.md
