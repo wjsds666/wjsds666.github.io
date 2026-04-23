@@ -17,5 +17,19 @@
       "Hexo"
     ],
     "cover": "/assets/2026-04-22 openwebui 接入开源项目 pptmaster 折腾有感/file-20260423133238788.png"
+  },
+  "posts/2026-04-22 转换测试笔记.md": {
+    "deleted": true,
+    "out_rel": "2026/04/22/转换测试笔记",
+    "url_path": "/2026/04/22/%E8%BD%AC%E6%8D%A2%E6%B5%8B%E8%AF%95%E7%AC%94%E8%AE%B0/",
+    "title": "转换测试笔记",
+    "date": "2026-04-22",
+    "category": "杂谈",
+    "tags": [
+      "测试",
+      "Obsidian"
+    ],
+    "cover": "/img/1.png",
+    "excerpt": "这是一个用于测试同步转换的笔记。"
   }
 }
