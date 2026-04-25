@@ -1,0 +1,10 @@
+.git
+.codex
+.cache
+.DS_Store
+node_modules
+Desktop
+Downloads
+Library
+Documents
+*.log

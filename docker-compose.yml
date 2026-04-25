@@ -1,0 +1,19 @@
+services:
+  obsidian-hexo:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8765:8765"
+    environment:
+      OBSIDIAN_HEXO_ROOT: /app
+      OBSIDIAN_HEXO_VAULT: /vault/obsidian-vault
+      OBSIDIAN_HEXO_CACHE: /cache/obsidian-hexo
+      OBSIDIAN_HEXO_HOST: 0.0.0.0
+      OBSIDIAN_HEXO_PORT: "8765"
+      OBSIDIAN_HEXO_OPEN_BROWSER: "0"
+    volumes:
+      - ./:/app
+      - /Users/thanksjing/Documents/笔记/obsidian-vault:/vault/obsidian-vault
+      - /Users/thanksjing/.cache/obsidian-hexo:/cache/obsidian-hexo
+    restart: unless-stopped
