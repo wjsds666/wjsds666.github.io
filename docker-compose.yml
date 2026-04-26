@@ -12,7 +12,7 @@ services:
       OBSIDIAN_HEXO_HOST: 0.0.0.0
       OBSIDIAN_HEXO_PORT: "8765"
       OBSIDIAN_HEXO_OPEN_BROWSER: "0"
-      WALINE_SERVER: https://waline-server-fawn-kappa.vercel.app
+      WALINE_SERVER: https://comment.wjsblog.xyz
     volumes:
       - ./:/app
       - /Users/thanksjing/Documents/笔记/obsidian-vault:/vault/obsidian-vault
