@@ -1,0 +1,8 @@
+{
+  "name": "waline-server",
+  "private": true,
+  "type": "commonjs",
+  "dependencies": {
+    "@waline/vercel": "latest"
+  }
+}
