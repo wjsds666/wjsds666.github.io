@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>免费部署网站指南</title>
+    <link href="/2026/05/02/%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E7%BD%91%E7%AB%99%E6%8C%87%E5%8D%97/"/>
+    <url>/2026/05/02/%E5%85%8D%E8%B4%B9%E9%83%A8%E7%BD%B2%E7%BD%91%E7%AB%99%E6%8C%87%E5%8D%97/</url>
+    <content type="html"><![CDATA[![](assets/免费部署网站指南/file 20260502150906911.png) 免费部署网站指南 我们每个人都喜欢搞一个属于自己的网站,可以让任何人在任何设备上都能打开.所以这篇文章就整合一下我了解的建站方式 如果你只是想把自己的博客、作品集、文档站或者前端项目免费放到公网，这四个平台基本已经够用了： ]]></content>
+    <categories>
+      <category> 开发 </category>
+    </categories>
+    <tags>
+      <tag> 建站 </tag>
+      <tag> 部署 </tag>
+      <tag> GitHub </tag>
+      <tag> Vercel </tag>
+      <tag> Cloudflare </tag>
+      <tag> Netlify </tag>
+    </tags>
+  </entry>
+  <entry>
     <title>通过 obsidian 笔记直接在博客上新建文章-懒人的小工具</title>
     <link href="/2026/04/23/%E9%80%9A%E8%BF%87%20obsidian%20%E7%AC%94%E8%AE%B0%E7%9B%B4%E6%8E%A5%E5%9C%A8%E5%8D%9A%E5%AE%A2%E4%B8%8A%E6%96%B0%E5%BB%BA%E6%96%87%E7%AB%A0-%E6%87%92%E4%BA%BA%E7%9A%84%E5%B0%8F%E5%B7%A5%E5%85%B7/"/>
     <url>/2026/04/23/%E9%80%9A%E8%BF%87%20obsidian%20%E7%AC%94%E8%AE%B0%E7%9B%B4%E6%8E%A5%E5%9C%A8%E5%8D%9A%E5%AE%A2%E4%B8%8A%E6%96%B0%E5%BB%BA%E6%96%87%E7%AB%A0-%E6%87%92%E4%BA%BA%E7%9A%84%E5%B0%8F%E5%B7%A5%E5%85%B7/</url>
